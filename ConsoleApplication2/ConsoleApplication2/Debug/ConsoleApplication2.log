@@ -1,0 +1,13 @@
+﻿2014/06/09 21:55:53 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "c:\Users\robotclub_kut\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\ConsoleApplication2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication2.cpp
+         ConsoleApplication2.cpp
+     1>c:\users\robotclub_kut\documents\visual studio 2013\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): fatal error C1010: プリコンパイル ヘッダーを検索中に不明な EOF が見つかりました。'#include "stdafx.h"' をソースに追加しましたか?
+     1>プロジェクト "c:\Users\robotclub_kut\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" (Build ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:01.61

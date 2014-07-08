@@ -1,0 +1,15 @@
+﻿2014/07/03 21:10:28 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\robotclub_kut\Documents\Visual Studio 2013\Projects\for2\for2\for2.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source1.cpp
+         Source1.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\robotclub_kut\Documents\Visual Studio 2013\Projects\for2\Debug\for2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\robotclub_kut\Documents\Visual Studio 2013\Projects\for2\Debug\for2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\robotclub_kut\Documents\Visual Studio 2013\Projects\for2\Debug\for2.lib" /MACHINE:X86 Debug\Source.obj
+         Debug\Source1.obj
+     1>Source1.obj : error LNK2005: _main は既に Source.obj で定義されています。
+     1>C:\Users\robotclub_kut\Documents\Visual Studio 2013\Projects\for2\Debug\for2.exe : fatal error LNK1169: 1 つ以上の複数回定義されているシンボルが見つかりました。
+     1>プロジェクト "C:\Users\robotclub_kut\Documents\Visual Studio 2013\Projects\for2\for2\for2.vcxproj" (Build ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:00.23
